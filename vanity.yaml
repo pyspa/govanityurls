@@ -1,8 +1,6 @@
-host: rakyll.pizza
+host: go.pyspa.org
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /brbundle:
+    repo: https://github.com/pyspa/brbundle
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
